@@ -1,1 +1,2 @@
-# Samsung-Galaxy-S4-jfvelte-
+# jfvelte
+Device: Samsung Galaxy S4 (jfvelte)
